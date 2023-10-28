@@ -171,6 +171,17 @@ main div:first-of-type form {
     & div:first-of-type > span {
       margin: -13px auto !important;
     }
+    & p {
+      text-align: center;
+      margin: auto;
+    }
+    & h1 {
+      text-align: center;
+      margin: 0;
+      margin-top: 70px;
+      margin: auto !important;
+      width: 225px !important;
+    }
   }
   .img {
     width: 100%;
