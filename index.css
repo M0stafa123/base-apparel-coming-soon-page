@@ -138,10 +138,10 @@ main div:first-of-type form {
     & div:first-of-type {
       padding: 30px;
       & p {
-        width: 80%;
+        width: 100%;
       }
       & form {
-        width: 80%;
+        width: 100%;
       }
     }
   }
