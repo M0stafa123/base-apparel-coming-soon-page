@@ -8,10 +8,10 @@ span.style.cssText = `font-size: 13px;
     margin: -40px 1px 0px 10px;`;
 for (i = 0; i < div.children.length; i++) {
   if (i % 2 === 0) {
-    div.children[i].style.transform = "translateX(20%)";
+    div.children[i].style.transform = "translateX(10%)";
     div.children[i].style.opacity = "0";
   } else {
-    div.children[i].style.transform = "translateX(-20%)";
+    div.children[i].style.transform = "translateX(-10%)";
     div.children[i].style.opacity = "0";
   }
 }
